@@ -1,14 +1,14 @@
-# Backend Journey With Go
-- This repo shows my backend journey with Go.
+# Simple RESTful api with go (level 1)
+- This branch is an initial attempt to implementing a simple RESTful api
 
-- I will mostly follow this [road map](roadmap.sh)
+## Stuff I did and learnt in this branch
 
-## So far I have learned and implemented
+- [ ] How to create a server
 
-- [ ] net/http (still learning)
+- [ ] Understood the difference between handlers and handler functions
 
-- [x] Wrote some handler functions
+- [x] Understood JSON encoding/decoding
 
-- [x] How to work with templated html (has its own branch)
+- [x] How to chain Middlewares
 
-- [ ] URL validation (still learning)
+- [ ] Understood Sub-routing
