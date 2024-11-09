@@ -1,5 +1,4 @@
 # Backend Journey With Go
-
 - This repo shows my backend journey with Go.
 
 - I will mostly follow this [road map](roadmap.sh)
