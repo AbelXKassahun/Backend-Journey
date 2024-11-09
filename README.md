@@ -1,14 +1,8 @@
-# Backend Journey With Go
-- This repo shows my backend journey with Go.
+# A backend api with templated html
+- This api responds with templated html
 
-- I will mostly follow this [road map](roadmap.sh)
-
-## So far I have learned and implemented
-
-- [ ] net/http (still learning)
-
-- [x] Wrote some handler functions
-
-- [x] How to work with templated html (has its own branch)
-
-- [ ] URL validation (still learning)
+## So far in this repo i have done
+- [x] Cache the templates
+- [x] Use http.Error
+- [x] Use http.Redirect
+- [x] Use regular expression for URL validation
