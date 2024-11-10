@@ -5,7 +5,7 @@
 
 - [ ] How to create a server
 
-- [ ] Understood the difference between handlers and handler functions
+- [ ] Understood the difference between Handler and HandlerFunc
 
 - [x] Understood JSON encoding/decoding
 
